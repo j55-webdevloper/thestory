@@ -1,0 +1,10 @@
+Colors
+Grey: #7f7f7f
+Black: #000 
+Yellow: #ffd615
+Orange: #fd8200
+dark-grey: rgba(0, 0, 0, 0.5)
+white: #fff
+off-white: #f8f9fa
+off-black: #1f1f1f
+off-off-black: #292929
